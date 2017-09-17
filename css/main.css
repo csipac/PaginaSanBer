@@ -2,8 +2,8 @@
 /*
 Template Name: Color
 Version: 1.0
-Author: 
-Author URL: 
+Author:
+Author URL:
 */
 /*************************
 *******Typography******
@@ -90,12 +90,12 @@ hr {
   border-radius: 0px;
 }
 .btn.btn-primary {
-  background: #72C05B;
-  border-color: #72C05B;
+  background: #f9705b;
+  border-color: #df917d;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus {
-  background: #72C05B;
+  background: #db4444;
 }
 .column-title {
   margin-top: 0;
@@ -167,7 +167,7 @@ ul.nostyle i {
 .navbar-header .navbar-brand a {
   height: auto;
   display: inline-block;
- 
+
 }
 #top-header {
   padding: 10px 0;
@@ -240,16 +240,40 @@ ul.nostyle i {
   height: 100%;
   color: #fff;
 }
+
 #main-slider .slider-inner h2 {
+  margin-top: 180px;
+  font-size: 36px;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+#main-slider .slider-inner h2 > span {
+  color: #ff4745;
+}
+#main-slider .slider-inner h3 {
   margin-top: 180px;
   font-size: 36px;
   line-height: 1;
   text-transform: uppercase;
   color: #fff;
 }
-#main-slider .slider-inner h2 > span {
-  color: #72C05B;
+#main-slider .slider-inner h3 > span { /*H3*/
+  color: #f6463a;
 }
+
+#main-slider .slider-inner h4 {
+  margin-top: 180px;
+
+  line-height: 1;
+  text-transform: uppercase;
+  color: #fff;
+}
+#main-slider .slider-inner h4 > span { /*H4*/
+  color: #0e0371;
+}
+
+
 #main-slider .slider-inner .btn {
   margin-top: 10px;
 }
@@ -272,7 +296,7 @@ ul.nostyle i {
 }
 #main-slider .owl-prev:hover,
 #main-slider .owl-next:hover {
-  background-color: #72C05B;
+  background-color: #f52c2c;
 }
 #main-slider .owl-prev {
   left: -35px;
@@ -286,7 +310,7 @@ ul.nostyle i {
   width: 0%;
   max-width: 100%;
   height: 4px;
-  background: #72C05B;
+  background: #fff612;
 }
 #progressBar {
   margin-top: -4px;
@@ -363,7 +387,7 @@ ul.nostyle i {
     font-weight: 400;
     font-size: 14px;
     color: #111;
-    margin: 16px 0 15px; 
+    margin: 16px 0 15px;
     text-align: center;
 }
 
