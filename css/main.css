@@ -365,6 +365,10 @@ ul.nostyle i {
   padding: 100px 0 75px;
   text-align: center;
 }
+#levels{
+  padding: 100px 0 75px;
+  text-align: center;
+}
 
 /*************************
 *******Service******
@@ -418,6 +422,60 @@ ul.nostyle i {
 .media.service-box:hover .pull-left > i {
 
 }
+
+/*************************
+*******Levels******
+**************************/
+#levels .features-item {
+    margin: 25px 0;
+}
+#levels .features-item .features-icon i {
+  font-size: 40px;
+  text-align: center;
+}
+#levels .features-item:hover .features-icon i , #levels .features-item:hover h3 {
+  color: #72C05B ;
+  -webkit-transition: .3s all;
+  -o-transition: .3s all;
+  transition: .3s all;
+}
+#levels .features-item h3 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #111;
+    margin: 16px 0 15px;
+    text-align: center;
+}
+
+.media.levels-box {
+  margin: 25px 0;
+}
+.media.levels-box .pull-left {
+  margin-right: 20px;
+}
+.media.levels-box .pull-left > i {
+  font-size: 24px;
+  height: 64px;
+  line-height: 64px;
+  text-align: center;
+  width: 64px;
+  color: #72C05B;
+  box-shadow: inset 0 0 0 1px #d7d7d7;
+  -webkit-box-shadow: inset 0 0 0 1px #d7d7d7;
+  transition: background-color 400ms, background-color 400ms;
+  position: relative;
+  display: block;
+  line-height: 60px;
+  font-size: 18px;
+  transform: translateZ(0px);
+}
+
+.media.levels-box:hover .pull-left > i {
+
+}
+
 /*************************
 *******Portfolio******
 **************************/

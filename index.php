@@ -37,6 +37,7 @@ $menu='index';
     <?php include('layouts/mission&vision.php') ?>
     <?php include('layouts/slogan.php') ?>
     <?php include('layouts/ourValues.php') ?>
+    <?php include('layouts/levels.php') ?>
     <?php include('layouts/portafolio.php') ?>
     <?php include('layouts/contacts.php') ?>
     <?php include('layouts/footer.php') ?>

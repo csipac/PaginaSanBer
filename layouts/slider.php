@@ -7,7 +7,7 @@
                         <div class="col-md-12">
                             <div class="carousel-content text-center" >
                               <h2>Colegio <span>San Bernardino</span></h2>
-                              <p>Lorem ipsum dolo labore aliqua. </p>
+                              <p>El trabajo Bien Hecho, Amor y Paz. </p>
                               <a class="btn btn-primary btn-lg" href="#">Leer Mas</a>
                             </div>
                         </div>
