@@ -21,7 +21,7 @@
                 <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
                     <div class="features-item">
                         <div class="features-icon">
-                            <i class="fa fa-handshake-o"></i>
+                            <i class="fa fa-wheelchair"></i>
                         </div>
                         <h3 class="features-title font-alt">Servicio</h3>
                         Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
@@ -31,9 +31,9 @@
                 <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
                     <div class="features-item">
                         <div class="features-icon">
-                            <i class="fa fa-connectdevelop"></i>
+                            <i class="fa fa-briefcase"></i>
                         </div>
-                        <h3 class="features-title font-alt">Optimised for speed</h3>
+                        <h3 class="features-title font-alt">Trabajo</h3>
                         Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
                     </div>
                 </div>
@@ -41,9 +41,9 @@
                 <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
                     <div class="features-item">
                         <div class="features-icon">
-                            <i class="fa  fa-diamond"></i>
+                            <i class="fa  fa-heart-o"></i>
                         </div>
-                        <h3 class="features-title font-alt">Optimised for speed</h3>
+                        <h3 class="features-title font-alt">Carino</h3>
                         Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
                     </div>
                 </div>
@@ -51,9 +51,9 @@
                 <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
                     <div class="features-item">
                         <div class="features-icon">
-                            <i class="fa fa-user-secret"></i>
+                            <i class="fa fa-balance-scale"></i>
                         </div>
-                        <h3 class="features-title font-alt">Optimised for speed</h3>
+                        <h3 class="features-title font-alt">Justicia</h3>
                         Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
                     </div>
                 </div>
@@ -61,9 +61,9 @@
                 <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="500ms">
                     <div class="features-item">
                         <div class="features-icon">
-                            <i class="fa fa-key"></i>
+                            <i class="fa fa-handshake-o"></i>
                         </div>
-                        <h3 class="features-title font-alt">Optimised for speed</h3>
+                        <h3 class="features-title font-alt">Respeto</h3>
                         Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
                     </div>
                 </div>
@@ -71,9 +71,9 @@
                 <div class="col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="600ms">
                     <div class="features-item">
                         <div class="features-icon">
-                            <i class="fa fa-laptop"></i>
+                            <i class="fa fa-gavel"></i>
                         </div>
-                        <h3 class="features-title font-alt">Optimised for speed</h3>
+                        <h3 class="features-title font-alt">Responsabilidad</h3>
                         Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
                     </div>
                 </div>
