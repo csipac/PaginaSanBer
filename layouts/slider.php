@@ -24,7 +24,7 @@
 
                                 <h2>Nuestra <span>Historia</span></h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua. </p>
-                                <a class="btn btn-primary btn-lg" href="history.php" rel="stylesheet">Leer Mas</a>
+                                <a class="btn btn-primary btn-lg" href="history" rel="stylesheet">Leer Mas</a>
                             </div>
                         </div>
                     </div>

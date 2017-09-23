@@ -1,8 +1,6 @@
-
-
-$menu='history';
+<?php ;
+$menu='registro';
 ?>
-
 <!DOCTYPE html>
 <html>
   <head>

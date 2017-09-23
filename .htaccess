@@ -1,0 +1,4 @@
+#RewriteBase /
+RewriteEngine on
+
+RewriteRule ^history history.php
