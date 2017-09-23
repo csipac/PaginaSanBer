@@ -16,11 +16,12 @@
                 <p>Su Fundador Aldo Justiniano dejó su Colegio el 12 de diciembre de 1998, que Dios le premie por el amor que manifestó siempre por nuestro pueblo Patzunero.</p>
                 <p>El Colegio fue donado en el año de 1998 a las hermanas Franciscanas de la Inmaculada Concepción, desde esa fecha es dirigido por la congregación. </p>
 
-              
+
 
             </div>
             <div class="col-sm-6 wow fadeInLeft">
-                <img class="img-responsive" src="images/history/historyv.png" alt="">
+
+              <img class="img-responsive" src="https://mxzfkg-bn1305.files.1drv.com/y4mHabDZNpRpepPUqmNAbmQ_ex3xRhknQQGl806IcTcy7KyJLATCGSLrVb5AIeIt06SFAk1cwSMBsBXhwATItsffL5F3Xy5wV3FhL48kAWbdDNn3F71ohWDdTnjk8vLJbpWuaejAtMY2v6ANjw3nuMXZVo-fr3M5BktlRwR17CjQPwH18m1SJTZg-qLPKGhcV4ddeRYutxfZ2CxGTKbj1K-tQ?width=2048&height=1536&cropmode=none"/>
             </div>
         </div>
     </div>
