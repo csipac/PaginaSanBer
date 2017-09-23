@@ -1,5 +1,5 @@
-<?php require_once('database/conexion.php');
-<?php
+
+
 $menu='history';
 ?>
 
@@ -31,15 +31,6 @@ $menu='history';
                 <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"><a class="btn btn-primary btn-lg" href="#">Get It Now</a></p>
             </div>
         </div>
-
-
-
-
-
-
-
-
-
 
     <script src="js/myjs.js"></script>
     <script src="js/jquery.js"></script>
