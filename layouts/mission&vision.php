@@ -34,7 +34,7 @@
                         <i class="fa fa-child"></i>
                     </div>
                     <div class="media-body">
-                        <h4 class="media-heading">Logros</h4>
+                        <h4 class="media-heading">Idearios</h4>
                         <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
                     </div>
                 </div>
