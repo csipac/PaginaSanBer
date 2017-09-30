@@ -10,7 +10,7 @@
 
 
             <div class="row">
-              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
+              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Kinder</i>
@@ -22,7 +22,7 @@
                 </div>
               </div>
 
-              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
+              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Parvulos</i>
@@ -35,7 +35,7 @@
                 </div>
               </div>
 
-              <div class="col-md-4  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
+              <div class="col-md-4  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Preparatoria</i>
@@ -49,7 +49,7 @@
             </div>
 
             <div class="row">
-              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
+              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Primaria</i>
@@ -61,7 +61,7 @@
                 </div>
               </div>
 
-              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
+              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Baicos</i>
@@ -73,7 +73,8 @@
                 </div>
               </div>
 
-              <div class="col-md-4  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
+
+              <div class="col-md-4  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms" data-toggle="modal" data-target="#ideariomodal" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Diversificado</i>
@@ -82,10 +83,12 @@
                     Careful attention to detail and clean, well structured code ensures a
                     smooth user experience for all your visitors.
                     Careful attention to detail and clean, well structured code.
+
                 </div>
               </div>
             </div>
           </div>
+          <?php include('layouts/modalsLevel.php') ?>
 
     </div>
 </section>
