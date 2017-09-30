@@ -15,7 +15,7 @@
                 </div>
             </div>
         </div><!--/.item-->
-        <div class="item" style="background-image: url(images/slider/Slide2.png);">
+        <div class="item" style="background-image: url(images/slider/Slide4.png);">
             <div class="slider-inner">
                 <div class="container">
                     <div class="row">
