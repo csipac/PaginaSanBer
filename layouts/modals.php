@@ -80,6 +80,31 @@
         <td>Pobreza</td>
         <td>Minoridad</td>
       </tr>
+      <tr>
+        <td>Justicia</td>
+        <td>Obediencia</td>
+        <td>Paz y armonia con la naturaleza</td>
+      </tr>
+      <tr>
+        <td>Paz</td>
+        <td>Comunión Fraterna</td>
+        <td>Renuncia</td>
+      </tr>
+      <tr>
+        <td>Libertad</td>
+        <td> </td>
+        <td>Disponibilidad</td>
+      </tr>
+      <tr>
+        <td>Verdad</td>
+        <td></td>
+        <td>Anuncio del evangelio</td>
+      </tr>
+      <tr>
+        <td>Intensa vida de oración</td>
+        <td></td>
+        <td>Practica de obra de misericordia</td>
+      </tr>
     </tbody>
   </table>
          <!-- <ul class="list-group">
