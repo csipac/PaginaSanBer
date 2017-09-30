@@ -3,7 +3,7 @@
         <div class="row">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown animated" style="visibility: visible;">Contactanos</h2>
-                <p class="text-center wow fadeInDown animated" style="visibility: visible;">Drop a line to us. Your word is most important to us.</p>
+                <p class="text-center wow fadeInDown animated" style="visibility: visible;">Si tienes una duda escribenos, nosotros nos pondremos en contacto con tigo.</p>
             </div>
             <form id="main-contact-form" name="contact-form" method="post" action="#">
                 <div class="col-lg-6 animated animate-from-left" style="opacity: 1; left: 0px;">

@@ -3,7 +3,8 @@
 
         <div class="section-header">
             <h2 class="section-title text-center wow fadeInDown">Nuestros Valores</h2>
-            <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            <p class="text-center wow fadeInDown">Los valores de nuestros estudiantes son los que hacen la diferencia ante los demas.<br>
+            </p>
         </div>
 
         <div class="row">

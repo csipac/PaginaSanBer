@@ -18,6 +18,7 @@ $menu='registro';
     <link href="css/prettyPhoto.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+    <link rel="shortcut icon" href="images/logosab.png">
   </head>
   <body  id="home" class="homepage">
 

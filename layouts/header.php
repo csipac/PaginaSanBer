@@ -28,6 +28,7 @@
                         <li class="scroll"><a href="#about" data-section="#about">Acerca de Nosotros</a></li>
                         <li class="scroll"><a href="#features" data-section="#features">Mision&Vision</a></li>
                         <li class="scroll"><a href="#services" data-section="#services">Nuestros Valores</a></li>
+                        <li class="scroll"><a href="#levels" data-section="#levels">Niveles Educativos</a></li>
                         <li class="scroll"><a href="#portfolio" data-section="#portfolio">Instalaciones</a></li>
                         <li class="scroll"><a href="#contact-area" data-section="#contact-area">Contactanos</a></li>
                     </ul>
