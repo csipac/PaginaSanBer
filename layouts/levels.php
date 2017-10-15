@@ -10,7 +10,7 @@
 
 
             <div class="row">
-              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms" style="cursor: pointer">
+              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms" data-toggle="modal" data-target="#kindermodal" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Kinder</i>
@@ -22,10 +22,10 @@
                 </div>
               </div>
 
-              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms" style="cursor: pointer">
+              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms" data-toggle="modal" data-target="#parvulosmodal" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
-                        <i class="fa fa-graduation-cap">Parvulos</i>
+                        <i class="fa fa-graduation-cap">Párvulos</i>
                     </div>
                     <h3 class="features-title font-alt"></h3>
                     Careful attention to detail and clean, well structured code ensures
@@ -35,7 +35,7 @@
                 </div>
               </div>
 
-              <div class="col-md-4  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms" style="cursor: pointer">
+              <div class="col-md-4  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms" data-toggle="modal" data-target="#prepamodal" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Preparatoria</i>
@@ -49,7 +49,7 @@
             </div>
 
             <div class="row">
-              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms" style="cursor: pointer">
+              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms" data-toggle="modal" data-target="#primariomodal" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Primaria</i>
@@ -61,10 +61,10 @@
                 </div>
               </div>
 
-              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms" style="cursor: pointer">
+              <div class="col-md-4 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms" data-toggle="modal" data-target="#basicomodal"style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
-                        <i class="fa fa-graduation-cap">Baicos</i>
+                        <i class="fa fa-graduation-cap">Básicos</i>
                     </div>
                     <h3 class="features-title font-alt"></h3>
                     Careful attention to detail and clean, well structured code ensures a
