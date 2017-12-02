@@ -90,12 +90,12 @@ hr {
   border-radius: 0px;
 }
 .btn.btn-primary {
-  background: #f9705b;
-  border-color: #df917d;
+  background: #102f5d;
+  border-color: #4eb4ff;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus {
-  background: #db4444;
+  background: #8697ff;
 }
 .column-title {
   margin-top: 0;
