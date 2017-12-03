@@ -13,7 +13,7 @@
                 <!-- logo -->
                 <div class="navbar-brand">
 
-                      <a href="<?php echo $dato[0]; ?>">
+                      <a href="http://localhost/PaginaSanBer/">
                         <img src="images/logosab.png" alt="">
                     </a>
                 </div>

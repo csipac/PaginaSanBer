@@ -74,7 +74,7 @@
               </div>
 
 
-              <div class="col-md-4  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms" data-toggle="modal" data-target="#ideariomodal" style="cursor: pointer">
+              <div class="col-md-4  wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms" data-toggle="modal" data-target="#divermodal" style="cursor: pointer">
                 <div class="features-item">
                     <div class="features-icon">
                         <i class="fa fa-graduation-cap">Diversificado</i>

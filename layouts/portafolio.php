@@ -2,7 +2,7 @@
     <div class="container">
         <div class="section-header">
             <h2 class="section-title text-center wow fadeInDown">Nuestras Instalaciones</h2>
-            <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            <h2 class="text-center wow fadeInDown">Haz click en los botones para conocer nuestras instalaciones <br></h2>
         </div>
 
         <div class="text-center">

@@ -481,7 +481,8 @@ ul.nostyle i {
 **************************/
 #portfolio {
   padding: 100px 0;
-  background: #f5f5f5;
+  background-image: url('https://contenedorsanber.blob.core.windows.net/resources/blur.jpg');
+
 }
 #portfolio .portfolio-filter {
   list-style: none;
